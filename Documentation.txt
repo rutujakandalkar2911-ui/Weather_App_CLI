@@ -1,0 +1,8 @@
+Weather App CLI Documentation
+
+Project Name: Weather App CLI
+
+Description:
+This project is a simple Python command-line application that asks the user to enter a city name and displays sample weather information such as temperature, weather condition, and humidity.
+
+Language: Python
